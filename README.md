@@ -30,3 +30,7 @@ Install dependencies
 pip3 install -r requirements.txt
 ``` 
 
+### Generating
+
+Update START_DATE and END_DATE variables and run script
+
